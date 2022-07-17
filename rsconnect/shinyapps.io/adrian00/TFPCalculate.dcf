@@ -1,0 +1,14 @@
+name: TFPCalculate
+title: TFPCalculate
+username:
+account: adrian00
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6635555
+bundleId: 6106127
+url: https://adrian00.shinyapps.io/TFPCalculate/
+when: 1658096016.06634
+lastSyncTime: 1658096016.06634
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: excel.png|K.csv|L.csv|Q.csv|script.R|shiny/server.r|shiny/ui.r|tfp.R
